@@ -5,7 +5,7 @@ from ..consts import *
 
 
 class OrderApi(Client):
-    def __init__(self, api_key, api_secret_key, passphrase, use_server_time=False, first=False):
+    def __init__(self,bg_ea75af7b466d2bc221f8bed149be2ac7 ,419a5f2dbb050e567ee44da9612f13543c6af89fb36097aa6d2835ba01bb578c , passphrase, use_server_time=False, first=False):
         Client.__init__(self, api_key, api_secret_key, passphrase, use_server_time, first)
 
     '''
