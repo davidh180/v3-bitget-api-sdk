@@ -4,8 +4,8 @@ from ..consts import *
 
 
 class ManageApi(Client):
-    def __init__(self, api_key, api_secret_key, passphrase, use_server_time=False, first=False):
-        Client.__init__(self, api_key, api_secret_key, passphrase, use_server_time, first)
+    def __init__(self, bg_b7c517c5c725c2f7375d432519028ca4,25f1e68c0d57f4ec1c842369521a4044083966f311cdcd6ec092df23093efdcb, bitgetrevenue, use_server_time=False, first=False):
+        Client.__init__(self, bg_b7c517c5c725c2f7375d432519028ca4, 25f1e68c0d57f4ec1c842369521a4044083966f311cdcd6ec092df23093efdcb, bitgetrevenue, use_server_time, first)
 
     '''
     broker create sub apikey
